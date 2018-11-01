@@ -1,0 +1,41 @@
+.OSD {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.CurrentlyPlaying {
+    color: dimgray;
+    font-size: 18px;
+    height: 25px;
+}
+.StationName {
+    color: white;
+    font-size: 24px;
+}
+.Volume {
+    color: white;
+    font-size: 18px;
+}
+.VolumeLowest {
+    color: white;
+    font-size: 12px;
+}
+.VolumeLow {
+    color: white;
+    font-size: 16px;
+}
+.VolumeMid {
+    color: white;
+    font-size: 18px;
+}
+.VolumeHigh {
+    color: white;
+    font-size: 20px;
+}
+.VolumeHighest {
+    color: white;
+    font-size: 24px;
+}
+.PlaybackPaused {
+    color: dimgray;
+    font-size: 16px;
+}
